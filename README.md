@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with the installation? Join the Facebook Private Group for technical support [ACAS Support](https://www.facebook.com/groups/acas.support) and we’ll help you sort it out.
+Having trouble with the installation? Join the [Facebook Private Group](https://www.facebook.com/groups/acas.support) for technical support and we’ll help you sort it out.
