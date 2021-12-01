@@ -1,6 +1,7 @@
-## Welcome to ACAS
+## Welcome to ACAS 5.0
 
-You can use the [editor on GitHub](https://github.com/SeynalKim/seynalkim.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can download the installer of ACAS from the link below:
+[https://bit.ly/3odNmj6](https://bit.ly/3odNmj6)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
