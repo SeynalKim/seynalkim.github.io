@@ -1,6 +1,6 @@
-## Welcome to ACAS v5.0
+## Welcome to ACAS v6.0
 
-You can download the installer of ACAS v5.0 from this link [https://bit.ly/3odNmj6](https://bit.ly/3odNmj6)
+You can download the installer of ACAS v6.0 from this link [https://bit.ly/3odNmj6](https://bit.ly/3odNmj6)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
